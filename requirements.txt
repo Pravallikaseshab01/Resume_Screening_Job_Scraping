@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+PyMuPDF
+python-docx
+pytesseract
+Pillow
+numpy
+joblib
+requests
