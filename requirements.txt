@@ -8,3 +8,6 @@ Pillow
 numpy
 joblib
 requests
+plotly
+lxml
+beautifulsoup4
